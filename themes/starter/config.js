@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Let is Net The Points to capture the essence of value by connecting all relevant parties.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Lets Net The Points to capture the essence of value by connecting all relevant parties.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
