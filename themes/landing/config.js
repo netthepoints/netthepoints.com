@@ -1,5 +1,5 @@
 const CONFIG = {
-
+  
   LANDING_HEADER_BUTTON_1_TITLE: 'Resources',
   LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
 
