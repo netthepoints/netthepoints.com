@@ -1,14 +1,14 @@
 const CONFIG = {
 
-  LANDING_HEADER_BUTTON_1_TITLE: 'Github开源',
+  LANDING_HEADER_BUTTON_1_TITLE: 'Resources',
   LANDING_HEADER_BUTTON_1_URL: 'https://github.com/tangly1024/NotionNext',
 
-  LANDING_HEADER_BUTTON_2_TITLE: '作者博客',
+  LANDING_HEADER_BUTTON_2_TITLE: 'Contact',
   LANDING_HEADER_BUTTON_2_URL: 'https://blog.tangly1024.com/',
 
   // 首页大图英雄板块
-  LANDING_HERO_TITLE_1: 'NotionNext',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
+  LANDING_HERO_TITLE_1: 'Net The Points',
+  LANDING_HERO_P_1: 'Let's Net The Points to capture the essence of value by connecting all relevant parties.',
   LANDING_HERO_BUTTON_1_TEXT: '开始体验',
   LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
   LANDING_HERO_BUTTON_2_TEXT: '了解更多',
@@ -19,16 +19,16 @@ const CONFIG = {
   LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
 
   // 特性介绍
-  LANDING_FEATURES_HEADER_1: '探索的过程',
-  LANDING_FEATURES_HEADER_1_P: "如何搭建自己的门户网站，塑造一个品牌展示中心？<br/>曾经，它是系统<strong class='font-bold text-red-500'>繁重</strong>的Wordpress、是操作<strong class='font-bold  text-red-500'>复杂</strong>的Hexo、是<strong class='font-bold text-red-500'>昂贵</strong>且<strong class='font-bold text-red-500'>不稳定</strong>的技术团队;<br/>现在，只要一个Notion笔记就够了",
-  LANDING_FEATURES_HEADER_2: 'Notion+NextJs组合方案',
-  LANDING_FEATURES_HEADER_2_P: '在Notion笔记中管理文章数据，NextJs将其渲染成网页排版，通过Vercel等第三方平台将您的网站发布到全球。',
-  LANDING_FEATURES_CARD_1_TITLE: '简单快速的系统',
-  LANDING_FEATURES_CARD_1_P: '在Notion中写下一篇文章，内容立刻在您的网站首页中呈现给互联网',
-  LANDING_FEATURES_CARD_2_TITLE: '高效传播的媒介',
-  LANDING_FEATURES_CARD_2_P: '优秀的SEO、快速的响应速度，让您的产品和宣传触达到更多的受众',
-  LANDING_FEATURES_CARD_3_TITLE: '人性化的定制工具',
-  LANDING_FEATURES_CARD_3_P: '多款主题供您挑选，可以搭建各种不同风格和作用的网站，更多的主题正在陆续加入中。',
+  LANDING_FEATURES_HEADER_1: 'What troubles you?',
+  LANDING_FEATURES_HEADER_1_P: "Are you in supply chain work or running your own business and seeking supplier support?<br/>Or do you recognize the advantages of Chinese products and consider purchasing from China?<br/>Or are you struggling to find a reliable one-stop solution provider for factory sourcing, negotiations, quality control, and smooth exports?<br/>If so, we are the partner you need.",
+  LANDING_FEATURES_HEADER_2: 'What NTP (Net The Points) offers？',
+  LANDING_FEATURES_HEADER_2_P: 'NTP's business concept is "True values come from creative connections."',
+  LANDING_FEATURES_CARD_1_TITLE: 'Rigorous selection and network building',
+  LANDING_FEATURES_CARD_1_P: ' NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.',
+  LANDING_FEATURES_CARD_2_TITLE: 'Leadership and coordination',
+  LANDING_FEATURES_CARD_2_P: 'NTP provides innovative product/service combinations by leveraging its leadership and coordinating the network's advantages. This helps customers stand out and avoids homogeneous competition.',
+  LANDING_FEATURES_CARD_3_TITLE: 'Efficient service process',
+  LANDING_FEATURES_CARD_3_P: 'Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
 
   // 特性介绍2
   LANDING_FEATURES_BLOCK_HEADER: '解决方案',
