@@ -61,14 +61,14 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'What Net The Points offers?',
   STARTER_ABOUT_TEXT:
-    'I. Rigorous selection and network building<br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/>II. Leadership and coordination<br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/>III. Efficient service process<br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
-  STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
+    '<strong class='font-bold text-red'>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/>II. Leadership and coordination<br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/>III. Efficient service process<br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
+  STARTER_ABOUT_BUTTON_TEXT: '',
+  STARTER_ABOUT_BUTTON_URL: '',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_TIPS_1: '7000+',
-  STARTER_ABOUT_TIPS_2: '博客站点',
-  STARTER_ABOUT_TIPS_3: '正在线上运行',
+  STARTER_ABOUT_TIPS_1: '100+',
+  STARTER_ABOUT_TIPS_2: 'factories',
+  STARTER_ABOUT_TIPS_3: 'cooperating',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
