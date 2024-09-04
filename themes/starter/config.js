@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'What Net The Points offers?',
   STARTER_ABOUT_TEXT:
-    '<strong class='font-bold text-red'>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/>II. Leadership and coordination<br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/>III. Efficient service process<br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
+    '<strong class='text-blue'>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/>II. Leadership and coordination<br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/>III. Efficient service process<br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
   STARTER_ABOUT_BUTTON_TEXT: '',
   STARTER_ABOUT_BUTTON_URL: '',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
