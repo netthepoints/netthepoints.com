@@ -64,7 +64,7 @@ const CONFIG = {
     '<strong>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/><strong>II. Leadership and coordination</strong><br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/><strong>III. Efficient service process</strong><br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
-  STARTER_ABOUT_BUTTON_TEXT: '',
+  STARTER_ABOUT_BUTTON_TEXT: ' ',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_TIPS_1: '100+',
   STARTER_ABOUT_TIPS_2: 'factories',
