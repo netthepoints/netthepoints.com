@@ -61,12 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'What Net The Points offers?',
   STARTER_ABOUT_TEXT:
-    'I. Rigorous selection and network building
-NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.
-II. Leadership and coordination
-NTP provides innovative product/service combinations by leveraging its leadership and coordinating the network's advantages. This helps customers stand out and avoids homogeneous competition.
-III. Efficient service process
-Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
+    'I. Rigorous selection and network building<br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/>II. Leadership and coordination<br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating the network's advantages. This helps customers stand out and avoids homogeneous competition.<br/><br/>III. Efficient service process<br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
