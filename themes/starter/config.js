@@ -206,29 +206,19 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
+        '/images/starter/team/hayson_avatar.jpg',
+      STARTER_TEAM_ITEM_NICKNAME: 'Hayson',
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Supply Chain Director'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/koko_avatar.jpg',
+      STARTER_TEAM_ITEM_NICKNAME: 'Koko',
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Market Manager'
     },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
-    },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
-    }
   ],
 
   // 博客文章区块
-  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
+  STARTER_BLOG_ENABLE: false, // 首页博文区块开关
   STARTER_BLOG_TITLE: '我们的博客',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '最近的新闻',
@@ -237,12 +227,12 @@ const CONFIG = {
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TITLE: '联系我们',
-  STARTER_CONTACT_TEXT: '告诉我们您遇到的问题',
-  STARTER_CONTACT_LOCATION_TITLE: '我们的位置',
-  STARTER_CONTACT_LOCATION_TEXT: '中国，福建',
-  STARTER_CONTACT_EMAIL_TITLE: '我们如何帮助您？',
-  STARTER_CONTACT_EMAIL_TEXT: 'mail@tangly1024.com',
+  STARTER_CONTACT_TITLE: 'Contact Us',
+  STARTER_CONTACT_TEXT: 'Please feel free to contact us if you have any concerns.',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
+  STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
+  STARTER_CONTACT_EMAIL_TITLE: 'Email Us',
+  STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/yfctc7', // 基于NoteForm创建，将留言数据存在Notion中
