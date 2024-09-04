@@ -31,7 +31,7 @@ const CONFIG = {
 
   // 特性区块
   STARTER_FEATURE_ENABLE: true, // 特性区块开关
-  STARTER_FEATURE_TITLE: '特性', // 特性
+  STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
     'NotionNext的愿景是帮助您简单、无感知地稳定地搭建自己的网站，放大品牌的价值。 ', // 特性
@@ -59,9 +59,10 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: '一套轻量实用的建站解决方案',
+  STARTER_ABOUT_TITLE: 'What NTP (Net The Points) offers?',
   STARTER_ABOUT_TEXT:
-    'NotionNext的愿景是帮助非技术人员的小白，最低成本、最快速地搭建自己的网站，帮助您将自己的产品与故事高效地传达给世界。 <br /> <br /> 功能强大的Notion笔记，简单快速的Vercel托管平台，组成一个简单的网站',
+    '<strong class='font-bold'>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers. <br /> <br /> <strong class='font-bold'>II. Leadership and coordination</strong><br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating the network's advantages. This helps customers stand out and avoids homogeneous competition.<strong class='font-bold'>III. Efficient service process</strong><br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.
+',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
   STARTER_ABOUT_BUTTON_URL: 'https://docs.tangly1024.com/about',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
