@@ -208,7 +208,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_AVATAR:
         '/images/starter/team/hayson_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Hayson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Supply Chain Director'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'CEO'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/koko_avatar.jpg',
