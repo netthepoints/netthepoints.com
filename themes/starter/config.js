@@ -215,6 +215,11 @@ const CONFIG = {
       STARTER_TEAM_ITEM_NICKNAME: 'Koko',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Market Manager'
     },
+    {
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/Leo_avatar.jpg',
+      STARTER_TEAM_ITEM_NICKNAME: 'Leo',
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector & Lawyer'
+    },
   ],
 
   // 博客文章区块
