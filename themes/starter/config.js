@@ -228,7 +228,7 @@ const CONFIG = {
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
   STARTER_CONTACT_TITLE: 'Contact Us',
-  STARTER_CONTACT_TEXT: 'Please feel free to contact us if you have any concerns.',
+  STARTER_CONTACT_TEXT: 'Are you in supply chain work or running your own business and seeking supplier support?<br/>Or do you recognize the advantages of Chinese products and consider purchasing from China?<br/>Or are you struggling to find a reliable one-stop solution provider for factory sourcing, negotiations, quality control, and smooth exports?<br/>If so, we are the partner you need.',
   STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
   STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
   STARTER_CONTACT_EMAIL_TITLE: 'Email Us',
