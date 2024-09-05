@@ -208,17 +208,17 @@ const CONFIG = {
       STARTER_TEAM_ITEM_AVATAR:
         '/images/starter/team/hayson_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Hayson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'CEO'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder|CEO|Supplying Networks Expert'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/koko_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Koko',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Market Manager'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder|Customer Problem Resolution Specialist'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/leo_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Leo',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector & Lawyer'
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector|Lawyer'
     },
   ],
 
