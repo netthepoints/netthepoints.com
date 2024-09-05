@@ -216,7 +216,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder & Market Manager'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/Leo_avatar.jpg',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/leo_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Leo',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector & Lawyer'
     },
@@ -236,7 +236,7 @@ const CONFIG = {
   STARTER_CONTACT_TITLE: 'Are you in supply chain work or running your own business and seeking supplier support? Or do you recognize the advantages of Chinese products and consider purchasing from China? Or are you struggling to find a reliable one-stop solution provider for factory sourcing, negotiations, quality control, and smooth exports? If so, we are the partner you need.',
   STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
   STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
-  STARTER_CONTACT_EMAIL_TITLE: 'Email Us',
+  STARTER_CONTACT_EMAIL_TITLE: 'Email',
   STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
 
   // 嵌入外部表单
