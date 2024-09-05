@@ -30,7 +30,7 @@ const CONFIG = {
   STARTER_NAV_BUTTON_2_URL: '/signup',
 
   // 特性区块
-  STARTER_FEATURE_ENABLE: true, // 特性区块开关
+  STARTER_FEATURE_ENABLE: false, // 特性区块开关
   STARTER_FEATURE_TITLE: '', // 特性
   STARTER_FEATURE_TEXT_1: 'NotionNext的主要特性', // 特性
   STARTER_FEATURE_TEXT_2:
