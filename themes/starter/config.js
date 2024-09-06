@@ -88,9 +88,9 @@ const CONFIG = {
     'https://netthepionts.com/pricing',
 
   STARTER_PRICING_2_TAG: 'Recommended',
-  STARTER_PRICING_2_TITLE: 'Curated Branch Company Mode',
-  STARTER_PRICING_2_PRICE: '15+',
-  STARTER_PRICING_2_PRICE_CURRENCY: '',
+  STARTER_PRICING_2_TITLE: '',
+  STARTER_PRICING_2_PRICE: '39.9',
+  STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '%',
   STARTER_PRICING_2_HEADER: 'If you don't have supplier, we offer services below',
   STARTER_PRICING_2_FEATURES: 'Production Process Monitoring With Well Assigned Sourcing Colleague,Production Process Monitoring With Well Assigned Sourcing Colleague,Free Product Photography for E-Commerce,Quality Inspection Services,Free Warehouse Storage,Certificate Obtaining Assistance,Competive Shipping Options,Quality Assurance | Warranty', // 英文逗号隔开
