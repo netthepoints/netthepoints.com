@@ -87,9 +87,9 @@ const CONFIG = {
   STARTER_PRICING_1_BUTTON_URL:
     'https://netthepionts.com/pricing',
 
-  STARTER_PRICING_2_TAG: 'recommended',
+  STARTER_PRICING_2_TAG: 'Recommended',
   STARTER_PRICING_2_TITLE: 'Curated Branch Company Mode',
-  STARTER_PRICING_2_PRICE: '15',
+  STARTER_PRICING_2_PRICE: '15+',
   STARTER_PRICING_2_PRICE_CURRENCY: '',
   STARTER_PRICING_2_PRICE_PERIOD: '%',
   STARTER_PRICING_2_HEADER: 'If you don't have supplier, we offer services below',
