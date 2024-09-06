@@ -78,35 +78,35 @@ const CONFIG = {
     'Acting as your branch company in China and with expertise in bicycle compounent industry, Net The Points runs with 3 Product Sourcing functional Modes: Discover how your branch company can transform your supply chain to be simple, efficient, and all-in-control today!',
 
   STARTER_PRICING_1_TITLE: 'Essential Branch Company Mode',
-  STARTER_PRICING_1_PRICE: 'start from 50',
+  STARTER_PRICING_1_PRICE: '50+',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'order',
-  STARTER_PRICING_1_HEADER: 'If you already have suppliers',
+  STARTER_PRICING_1_HEADER: 'If you already have suppliers, we offer services below',
   STARTER_PRICING_1_FEATURES: 'Receiving Products,Product Counting and Inspection,Product Return Assistance,Free Warehouse Services,Competitive Shipping Options,Essential Branch Company Mode', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_1_BUTTON_URL:
     'https://netthepionts.com/pricing',
 
   STARTER_PRICING_2_TAG: 'recommended',
-  STARTER_PRICING_2_TITLE: '',
-  STARTER_PRICING_2_PRICE: '39.9',
-  STARTER_PRICING_2_PRICE_CURRENCY: '$',
-  STARTER_PRICING_2_PRICE_PERIOD: '每月',
-  STARTER_PRICING_2_HEADER: '功能点',
-  STARTER_PRICING_2_FEATURES: '包含入门版,项目源码,内部社群,技术咨询,SEO优化', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_2_TITLE: 'Curated Branch Company Mode',
+  STARTER_PRICING_2_PRICE: '15',
+  STARTER_PRICING_2_PRICE_CURRENCY: '',
+  STARTER_PRICING_2_PRICE_PERIOD: '%',
+  STARTER_PRICING_2_HEADER: 'If you don't have supplier, we offer services below',
+  STARTER_PRICING_2_FEATURES: 'Production Process Monitoring With Well Assigned Sourcing Colleague,Production Process Monitoring With Well Assigned Sourcing Colleague,Free Product Photography for E-Commerce,Quality Inspection Services,Free Warehouse Storage,Certificate Obtaining Assistance,Competive Shipping Options,Quality Assurance | Warranty', // 英文逗号隔开
+  STARTER_PRICING_2_BUTTON_TEXT: 'Lean More',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/590ad70a-c3b7-4caf-94ec-9ca27bde06d4',
+    'https://netthepoints.com/pricing',
 
-  STARTER_PRICING_3_TITLE: '高级版',
-  STARTER_PRICING_3_PRICE: '59.9',
-  STARTER_PRICING_3_PRICE_CURRENCY: '$',
-  STARTER_PRICING_3_PRICE_PERIOD: '每月',
-  STARTER_PRICING_3_HEADER: '功能点',
-  STARTER_PRICING_3_FEATURES: '包含基础版,功能定制开发', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_3_TITLE: 'Full Custom Branch Company Mode',
+  STARTER_PRICING_3_PRICE: 'Free+',
+  STARTER_PRICING_3_PRICE_CURRENCY: '',
+  STARTER_PRICING_3_PRICE_PERIOD: '',
+  STARTER_PRICING_3_HEADER: 'Deep services',
+  STARTER_PRICING_3_FEATURES: 'Factory Audit and Pre-Shipment Inspections,ODM | OEM related business boosting,More unlimited functions to be discussed: Contact Us for Customized Sourcing Services', // 英文逗号隔开
+  STARTER_PRICING_3_BUTTON_TEXT: 'Learn More',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/df924d66-09dc-42a4-a632-a6b0c5cc4f28',
+    'https://netthepoints.com/pricing',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
