@@ -97,14 +97,14 @@ const LayoutIndex = props => {
       )}
       {/* 常见问题 */}
       {siteConfig('STARTER_FAQ_ENABLE', null, CONFIG) && <FAQ />}
-      {/* 团队介绍 */}
-      {siteConfig('STARTER_TEAM_ENABLE', null, CONFIG) && <Team />}
       {/* 博文列表 */}
       {siteConfig('STARTER_BLOG_ENABLE', null, CONFIG) && (
         <Blog posts={posts} />
       )}
       {/* 联系方式 */}
       {siteConfig('STARTER_CONTACT_ENABLE', null, CONFIG) && <Contact />}
+      {/* 团队介绍 */}
+      {siteConfig('STARTER_TEAM_ENABLE', null, CONFIG) && <Team />}
       {/* 合作伙伴 */}
       {siteConfig('STARTER_BRANDS_ENABLE', null, CONFIG) && <Brand />}
     </>
