@@ -214,6 +214,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/koko_avatar.jpg',
       STARTER_TEAM_ITEM_NICKNAME: 'Koko',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Co-founder | Customer Problem Resolution Specialist'
+      STARTER_TEAM_ITEM_URL: 'https://www.netthepoints.com/about#51cae4a4ecbf496fbcce9ced9679deae'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/leo_avatar.jpg',
