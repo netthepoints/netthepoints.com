@@ -11,14 +11,14 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Lets Net The Points to capture the essence of value by connecting all relevant parties.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Only offer the matchable purchasing solution. Lets Net The Points to capture the essence of value by connecting all relevant parties.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Get Purchasing Solution', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://docs.tangly1024.com/article/vercel-deploy-notion-next', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_TEXT: '在Github上关注', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
-  STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
+    'https://netthepoints.com/get purchasing solution', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
   STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
 
@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: 'cooperating',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: false, // 价格区块开关
+  STARTER_PRICING_ENABLE: true, // 价格区块开关
   STARTER_PRICING_TITLE: '价格表',
   STARTER_PRICING_TEXT_1: '很棒的定价计划',
   STARTER_PRICING_TEXT_2:
@@ -197,7 +197,7 @@ const CONFIG = {
 
 
   // 博客文章区块
-  STARTER_BLOG_ENABLE: false, // 首页博文区块开关
+  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
   STARTER_BLOG_TITLE: '我们的博客',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '最近的新闻',
