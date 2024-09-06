@@ -27,7 +27,7 @@ const CONFIG = {
   STARTER_NAV_BUTTON_1_URL: '',
 
   STARTER_NAV_BUTTON_2_TEXT: 'Subscribe',
-  STARTER_NAV_BUTTON_2_URL: '/contact',
+  STARTER_NAV_BUTTON_2_URL: 'https://noteforms.com/forms/subscribe-36qjbc',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
