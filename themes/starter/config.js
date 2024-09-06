@@ -72,23 +72,23 @@ const CONFIG = {
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: true, // 价格区块开关
-  STARTER_PRICING_TITLE: '价格表',
-  STARTER_PRICING_TEXT_1: '很棒的定价计划',
+  STARTER_PRICING_TITLE: '',
+  STARTER_PRICING_TEXT_1: 'Simple Pricing',
   STARTER_PRICING_TEXT_2:
-    '我们制定了灵活的付费模式，您可以按需选择。（NotionNext免费开源，这里仅演示产品订阅付费功能，请勿下单购买！）',
+    'Acting as your branch company in China and with expertise in bicycle compounent industry, Net The Points runs with 3 Product Sourcing functional Modes: Discover how your branch company can transform your supply chain to be simple, efficient, and all-in-control today!',
 
-  STARTER_PRICING_1_TITLE: '入门版',
-  STARTER_PRICING_1_PRICE: '19.9',
+  STARTER_PRICING_1_TITLE: 'Essential Branch Company Mode',
+  STARTER_PRICING_1_PRICE: 'start from 50',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
-  STARTER_PRICING_1_PRICE_PERIOD: '每月',
-  STARTER_PRICING_1_HEADER: '功能点',
-  STARTER_PRICING_1_FEATURES: '所有的主题,免费更新,帮助手册', // 英文逗号隔开
-  STARTER_PRICING_1_BUTTON_TEXT: '立即购买',
+  STARTER_PRICING_1_PRICE_PERIOD: 'order',
+  STARTER_PRICING_1_HEADER: 'If you already have suppliers',
+  STARTER_PRICING_1_FEATURES: 'Receiving Products,Product Counting and Inspection,Product Return Assistance,Free Warehouse Services,Competitive Shipping Options,Essential Branch Company Mode', // 英文逗号隔开
+  STARTER_PRICING_1_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://tangly1024.lemonsqueezy.com/checkout/buy/c1a38a65-362e-44c5-8065-733fee39eb54',
+    'https://netthepionts.com/pricing',
 
-  STARTER_PRICING_2_TAG: '推荐',
-  STARTER_PRICING_2_TITLE: '基础版',
+  STARTER_PRICING_2_TAG: 'recommended',
+  STARTER_PRICING_2_TITLE: '',
   STARTER_PRICING_2_PRICE: '39.9',
   STARTER_PRICING_2_PRICE_CURRENCY: '$',
   STARTER_PRICING_2_PRICE_PERIOD: '每月',
