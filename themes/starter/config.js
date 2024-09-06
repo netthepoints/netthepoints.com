@@ -82,7 +82,7 @@ const CONFIG = {
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'order',
   STARTER_PRICING_1_HEADER: 'If you already have suppliers, we offer services below',
-  STARTER_PRICING_1_FEATURES: 'Receiving Products,Product Counting and Inspection,Product Return Assistance,Free Warehouse Services,Competitive Shipping Options,Essential Branch Company Mode', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: 'Comprehensive Product Receiving and Quality Assurance,Product Return Assistance,Free Warehouse Services,Competitive Shipping Options,Essential Branch Company Mode', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_1_BUTTON_URL:
     'https://netthepionts.com/pricing',
