@@ -20,14 +20,14 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: 'https://github.com/tangly1024/NotionNext', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '/images/starter/github.svg', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '/images/starter/hero/second-brain.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
   STARTER_NAV_BUTTON_1_URL: '',
 
   STARTER_NAV_BUTTON_2_TEXT: 'Subscribe',
-  STARTER_NAV_BUTTON_2_URL: '/signup',
+  STARTER_NAV_BUTTON_2_URL: '/contact',
 
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
@@ -195,6 +195,24 @@ const CONFIG = {
   STARTER_FAQ_4_ANSWER:
     '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
 
+
+  // 博客文章区块
+  STARTER_BLOG_ENABLE: false, // 首页博文区块开关
+  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_2:
+    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+
+  // 联系模块
+  STARTER_CONTACT_ENABLE: true, // 联系模块开关
+  STARTER_CONTACT_TEXT: 'Contact Us!',
+  STARTER_CONTACT_TITLE: 'Are you in supply chain work or running your own business and seeking supplier support? Or do you recognize the advantages of Chinese products and consider purchasing from China? Or are you struggling to find a reliable one-stop solution provider for factory sourcing, negotiations, quality control, and smooth exports? If so, we are the partner you need.',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
+  STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
+  STARTER_CONTACT_EMAIL_TITLE: 'Email',
+  STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
+  
   // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
   STARTER_TEAM_TITLE: '',
@@ -221,24 +239,6 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector | Lawyer'
     },
   ],
-
-  // 博客文章区块
-  STARTER_BLOG_ENABLE: false, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
-  STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
-
-  // 联系模块
-  STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TEXT: 'Contact Us!',
-  STARTER_CONTACT_TITLE: 'Are you in supply chain work or running your own business and seeking supplier support? Or do you recognize the advantages of Chinese products and consider purchasing from China? Or are you struggling to find a reliable one-stop solution provider for factory sourcing, negotiations, quality control, and smooth exports? If so, we are the partner you need.',
-  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
-  STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
-  STARTER_CONTACT_EMAIL_TITLE: 'Email',
-  STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
-
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/subscribe-36qjbc', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
