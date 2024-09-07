@@ -181,19 +181,23 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'What is the Core Difference Between NTP (Net The Points) and Its Peers?',
   STARTER_FAQ_1_ANSWER:
-    'NTP distinguishes itself from its peers in the Chinese market through our unique ideology of "being your branch company." This approach empowers us to align our extensive expertise with the interests of your business across all aspects.<br/>One of our key strengths is specialized Research and Development (R&D) team focused on bicycle carbon components. We can also serve as your extended R&D department in China in addition to being your sourcing department, ensuring convenience and efficiency while collaborating with local industrial clusters to meet your sourcing needs.',
+    'NTP distinguishes itself from its peers in the Chinese market through our unique ideology of "Being your branch company." This approach empowers us to align our extensive expertise with the interests of your business across all aspects.<br/><br/>Additionally, one of our key strengths is our specialized Research and Development (R&D) team focused on bicycle carbon components. <br/>We can also serve as your extended R&D department in China in addition to being your sourcing department, ensuring convenience and efficiency while collaborating with local industrial clusters to meet your sourcing needs.',
 
-  STARTER_FAQ_2_QUESTION: 'Will NTP (Net The Points) Share Factory Contact Information?',
+  STARTER_FAQ_2_QUESTION: 'How Does NTP (Net The Points) Qualify Factories for Reliability, Product Quality and On-time Delivery?',
   STARTER_FAQ_2_ANSWER:
+    'NTP deploys a comprehensive approach to verify factories or suppliers, ensuring they are reliable and produce high-quality products. The qualification process includes several key steps:<br/><br/>1. Reputation Checks: We assess suppliers' reputations using the China National Enterprise Credit Information Publicity System and Qichacha, both trusted platforms for evaluating enterprise credibility. We also utilize other effective verification tools to gather valuable insights.<br/>2. Feedback Analysis: Our team reviews supplier feedback from third-party marketplaces and thematic online forums. This feedback helps us understand the performance of suppliers and the quality of their products.<br/>3. Order Monitoring: An assigned colleague from your branch company here closely monitors orders throughout various production stages. This oversight ensures that manufacturers deliver products on time and meet your specific requirements.<br/>4. Quality Inspections: Before production begins, we communicate all requirements with the factories or suppliers. After production, the team conducts thorough quality inspections to verify that the products meet our strict standards. Suppliers understand our commitment to maintaining high quality and timely delivery.<br/><br/>By following these rigorous processes, NTP offers a reliable sourcing service that connects you with your proprietary supplier networks comprising trustworthy factories or suppliers in China, ensuring you receive premium products tailored to your needs.',
+
+  STARTER_FAQ_3_QUESTION: 'Will NTP (Net The Points) Share Factory Contact Information?',
+  STARTER_FAQ_3_ANSWER:
     'Yes, NTP can provide factory contact information upon request. The cost for this service typically ranges around $500 USD and depends on the complexity of your product. We deliver this information before you place your initial order.<br/>As your branch company, NTP prides itself on transparency regarding our work scope, costs, and processes. We have invested significant time and effort into building a robust supplier chain tailored to your requirements. We appreciate your recognition of our hard work.<br/>The cost charged for factory information reflects the labor and resources involved in gathering, analyzing, and presenting a curated list of qualified manufacturers to offer you the best options for your business.',
 
-  STARTER_FAQ_3_QUESTION: '',
-  STARTER_FAQ_3_ANSWER:
-    '',
-
-  STARTER_FAQ_4_QUESTION: '',
+  STARTER_FAQ_4_QUESTION: 'Does NTP (Net The Points) Perform Quality Inspection or Hire A Third Party To Do The Inspection?',
   STARTER_FAQ_4_ANSWER:
-    '',
+    'At NTP, we pride ourselves on having a dedicated team of quality inspection professionals. Our experienced team conducts thorough factory inspections to ensure that all processes are tightly controlled and meet high-quality standards. <br/><br/>With NTP, you can trust that your products are in good hands, and we prioritize quality control at every step of the manufacturing process.',
+
+  STARTER_FAQ_5_QUESTION: 'Will I Be Assigned A Specialist To Me or Is It A Team?',
+  STARTER_FAQ_5_ANSWER:
+    'When the branch company receives a task you assign, a dedicated specialist will be appointed to your case, ensuring that all your questions and inquiries are addressed efficiently. <br/><br/>Your specialist serves as a central point of contact, organizing both internal and external resources to streamline communication and enhance your experience. With our focused support, you can trust that your needs will be prioritized and handled with expertise.',
 
 
   // 博客文章区块
