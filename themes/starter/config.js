@@ -290,15 +290,15 @@ const CONFIG = {
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
     {
-      TITLE: 'About Us',
+      TITLE: '',
       LINK_GROUP: [
-        { TITLE: 'Home Page', URL: '/#home' },
+        { TITLE: '', URL: '' },
         {
-          TITLE: 'Help',
+          TITLE: '',
           URL: ''
         },
         {
-          TITLE: 'Cooperation Application',
+          TITLE: '',
           URL: ''
         }
       ]
