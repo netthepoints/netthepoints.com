@@ -285,7 +285,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: '我们通过技术为品牌和公司创造数字体验。',
+  STARTER_FOOTER_SLOGAN: 'True values come from creative connections.',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
