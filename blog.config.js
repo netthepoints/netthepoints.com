@@ -66,7 +66,7 @@ const BLOG = {
   ],
   // 无衬线字体 例如'"LXGW WenKai"'
   FONT_SANS: [
-    // '"LXGW WenKai"',
+    // '"Michroma Regular"',
     '"PingFang SC"',
     '-apple-system',
     'BlinkMacSystemFont',
@@ -86,7 +86,7 @@ const BLOG = {
   ],
   // 衬线字体 例如'"LXGW WenKai"'
   FONT_SERIF: [
-    // '"LXGW WenKai"',
+    // '"Michroma Regular"',
     'Bitter',
     '"Noto Serif SC"',
     'SimSun',
