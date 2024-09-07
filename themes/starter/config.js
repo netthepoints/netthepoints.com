@@ -179,21 +179,21 @@ const CONFIG = {
   STARTER_FAQ_TEXT_1: 'FAQ',
   STARTER_FAQ_TEXT_2: 'Here are some questions that you may ask',
 
-  STARTER_FAQ_1_QUESTION: 'NotionNext有帮助文档吗？',
+  STARTER_FAQ_1_QUESTION: 'What is the Core Difference Between NTP (Net The Points) and Its Peers?',
   STARTER_FAQ_1_ANSWER:
-    'NotionNext提供了<a href="https://docs.tangly1024.com/about" className="underline">帮助文档</a>，操作<a href="https://www.bilibili.com/video/BV1fM4y1L7Qi/" className="underline">演示视频</a>，以及<a href="https://docs.tangly1024.com/article/chat-community" className="underline">交流社群</a>来协助您完成网站的搭建部署',
+    'NTP distinguishes itself from its peers in the Chinese market through our unique ideology of "being your branch company." This approach empowers us to align our extensive expertise with the interests of your business across all aspects.<br/>One of NTP's key strengths is our specialized Research and Development (R&D) team focused on bicycle carbon components. We can also serve as your extended R&D department in China in addition to being your sourcing department, ensuring convenience and efficiency while collaborating with local industrial clusters to meet your sourcing needs.',
 
-  STARTER_FAQ_2_QUESTION: '部署后要如何编写文章？',
+  STARTER_FAQ_2_QUESTION: 'Will NTP (Net The Points) Share Factory Contact Information?',
   STARTER_FAQ_2_ANSWER:
-    '您可以在Notion中之间添加或修改类型为Post的页面，内容将被实时同步在站点中，详情参考<a className="underline" href="https://docs.tangly1024.com/article/start-to-write">《帮助文档》</a>',
+    'Yes, NTP can provide factory contact information upon request. The cost for this service typically ranges around $500 USD and depends on the complexity of your product. We deliver this information before you place your initial order.<br/>As your branch company, NTP prides itself on transparency regarding our work scope, costs, and processes. We have invested significant time and effort into building a robust supplier chain tailored to your requirements. We appreciate your recognition of our hard work.<br/>The cost charged for factory information reflects the labor and resources involved in gathering, analyzing, and presenting a curated list of qualified manufacturers to offer you the best options for your business.',
 
-  STARTER_FAQ_3_QUESTION: '站点部署失败，更新失败？',
+  STARTER_FAQ_3_QUESTION: '',
   STARTER_FAQ_3_ANSWER:
-    '通常是配置修改错误导致，请检查配置或者重试操作步骤，或者通过Vercel后台的Deployments中找到错误日志，并向网友求助',
+    '',
 
-  STARTER_FAQ_4_QUESTION: '文章没有实时同步？',
+  STARTER_FAQ_4_QUESTION: '',
   STARTER_FAQ_4_ANSWER:
-    '先检查Notion_Page_ID是否正确配置，其次由于博客的每个页面都有独立缓存，刷新网页后即可解决',
+    '',
 
 
   // 博客文章区块
