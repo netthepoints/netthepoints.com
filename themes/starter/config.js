@@ -181,7 +181,7 @@ const CONFIG = {
 
   STARTER_FAQ_1_QUESTION: 'What is the Core Difference Between NTP (Net The Points) and Its Peers?',
   STARTER_FAQ_1_ANSWER:
-    'NTP distinguishes itself from its peers in the Chinese market through our unique ideology of "being your branch company." This approach empowers us to align our extensive expertise with the interests of your business across all aspects.<br/>One of NTP's key strengths is our specialized Research and Development (R&D) team focused on bicycle carbon components. We can also serve as your extended R&D department in China in addition to being your sourcing department, ensuring convenience and efficiency while collaborating with local industrial clusters to meet your sourcing needs.',
+    'NTP distinguishes itself from its peers in the Chinese market through our unique ideology of "being your branch company." This approach empowers us to align our extensive expertise with the interests of your business across all aspects.<br/>One of our key strengths is specialized Research and Development (R&D) team focused on bicycle carbon components. We can also serve as your extended R&D department in China in addition to being your sourcing department, ensuring convenience and efficiency while collaborating with local industrial clusters to meet your sourcing needs.',
 
   STARTER_FAQ_2_QUESTION: 'Will NTP (Net The Points) Share Factory Contact Information?',
   STARTER_FAQ_2_ANSWER:
