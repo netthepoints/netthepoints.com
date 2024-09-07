@@ -198,11 +198,11 @@ const CONFIG = {
 
   // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: '我们的博客',
+  STARTER_BLOG_TITLE: 'Blogs',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '最近的新闻',
+  STARTER_BLOG_TEXT_1: '',
   STARTER_BLOG_TEXT_2:
-    '这里会发布一些关于NotionNext的最新动态，包括新的动向、新的未来计划，以及新功能的特性',
+    '',
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
