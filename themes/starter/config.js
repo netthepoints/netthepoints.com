@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'One-stop Supply Sourcing Solution Provider', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'One-stop Sourcing Solution Provider', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Get Purchasing Solution', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
