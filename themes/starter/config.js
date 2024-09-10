@@ -242,6 +242,11 @@ const CONFIG = {
       STARTER_TEAM_ITEM_NICKNAME: 'Leo',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector | Lawyer'
     },
+    {
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/sherry_avatar.jpg',
+      STARTER_TEAM_ITEM_NICKNAME: 'Sherry',
+      STARTER_TEAM_ITEM_DESCRIPTION: 'Supplier Operation Health Inspector | Auditor'
+    },
   ],
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/purchase-application-form-zmsm4o', // 基于NoteForm创建，将留言数据存在Notion中
