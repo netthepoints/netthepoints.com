@@ -61,7 +61,7 @@ const CONFIG = {
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: 'What NTP (Net The Points) Offers?',
   STARTER_ABOUT_TEXT:
-    '<strong>We Are Your Branch Company In China</strong><br/>At NTP, we pride ourselves on being your dedicated branch company in China. Our specialized teamof qualityinspection professionals conducts comprehensive product quality checks and factory inspections. Weensurethat all processes are tightly controlled and meet the highest standards, significantly reducing procurementrisks from the ground up.<br/>With our co-founders' extensive background in Research and Development within the carbon fiber bicyclecomponent sector, NTP offers insights that align with your branded business development needs. Our
+    '<strong>We Are Your Branch Company In China</strong><br/>At NTP, we pride ourselves on being your dedicated branch company in China. Our specialized team of quality inspection professionals conducts comprehensive product quality checks and factory inspections. We ensure that all processes are tightly controlled and meet the highest standards, significantly reducing procurement risks from the ground up.<br/>With our extensive background in Research and Development within the carbon fiber bicycle component sector, NTP offers insights that align with your branded business development needs. Our
 services are tailored to enhance your brand and ensure product excellence.<br/><br/><strong>The Properly Set Up Branch Company Mainly Undertakes Work In:</strong><br/>Product Design and Molding<br/>Product Sourcing<br/>Quality Control<br/>Logistics Management',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
