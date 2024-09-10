@@ -243,7 +243,7 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supply Chain Standards System Inspector | Lawyer'
     },
     {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/sherry_avatar.jpg',
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/sherry_avatar.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Sherry',
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supplier Operation Health Inspector | Auditor'
     },
