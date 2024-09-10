@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'One-stop Sourcing Solution Provider', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'One-stop Sourcing Solution Provider from China', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Get Purchasing Solution', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -59,9 +59,9 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'What NTP (Net The Points) Offers?',
+  STARTER_ABOUT_TITLE: 'What NTP (Net The Points) Offers? And Why NTP?',
   STARTER_ABOUT_TEXT:
-    '<strong>We Are Your Branch Company In China</strong><br/>At NTP, we pride ourselves on being your dedicated branch company in China. Our specialized team of quality inspection professionals conducts comprehensive product quality checks and factory inspections. We ensure that all processes are tightly controlled and meet the highest standards, significantly reducing procurement risks from the ground up.<br/>With our extensive background in Research and Development within the carbon fiber bicycle component sector, NTP offers insights that align with your branded business development needs. Our services are tailored to enhance your brand and ensure product excellence.<br/><br/><strong>The Properly Set Up Branch Company Mainly Undertakes Work In:</strong><br/>Product Design and Molding<br/>Product Sourcing<br/>Quality Control<br/>Logistics Management',
+    '<strong>NTP is mainly undertaking the Work for You in:</strong><br/>Product Design and Molding<br/>Product Sourcing<br/>Quality Control<br/>Logistics Management<br/><br/><strong>The first factor of what makes NTP so unique that is we are your branch company in China. </strong><br/>At NTP, we pride on positioning ourselves as your dedicated branch company in China. This approach inherently empowers us to align our extensive expertise with the interests of your business across all aspects.<br/><br/><strong>Our quality inspection team members, who also have professional backgrounds as lawyers, auditors or economists, are more capable of conducting comprehensive product quality checks and factory inspections. We ensure that all processes are tightly controlled and meet the highest standards, significantly reducing procurement risks from the very beginning.</strong><br/><br/><strong>The final one is the scientific research and development background of the co-founders. </strong>With our extensive background in research and development in the carbon fiber bicycle component sector and a strong sense of what a brand truly is, NTP offers insights that align with your branded business development needs and can provide services starting from the drawing board. Our services are tailored to enhance your brand and ensure product excellence.',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn More',
