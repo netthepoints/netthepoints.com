@@ -11,7 +11,7 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'Lets Net The Points to capture the essence of value in sourcing solutions by connecting all relevant parties.', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'One-stop Supply Sourcing Solution Provider', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
   STARTER_HERO_BUTTON_1_TEXT: 'Get Purchasing Solution', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
@@ -59,13 +59,14 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'What Net The Points offers?',
+  STARTER_ABOUT_TITLE: 'What NTP (Net The Points) Offers?',
   STARTER_ABOUT_TEXT:
-    '<strong>I. Rigorous selection and network building</strong><br/>NTP carefully picks excellent Chinese manufacturers and builds a high-quality supply resource network. This ensures product quality, enhances trust, and reduces procurement risks for customers.<br/><br/><strong>II. Leadership and coordination</strong><br/>NTP provides innovative product/service combinations by leveraging its leadership and coordinating advantages of the network. This helps customers stand out and avoids homogeneous competition.<br/><br/><strong>III. Efficient service process</strong><br/>Customers describe their needs, and NTP gets it done. This saves time and costs, improves satisfaction, and helps NTP gain a market edge and expand business.',
+    '<strong>We Are Your Branch Company In China</strong><br/>At NTP, we pride ourselves on being your dedicated branch company in China. Our specialized teamof qualityinspection professionals conducts comprehensive product quality checks and factory inspections. Weensurethat all processes are tightly controlled and meet the highest standards, significantly reducing procurementrisks from the ground up.<br/>With our co-founders' extensive background in Research and Development within the carbon fiber bicyclecomponent sector, NTP offers insights that align with your branded business development needs. Our
+services are tailored to enhance your brand and ensure product excellence.<br/><br/><strong>The Properly Set Up Branch Company Mainly Undertakes Work In:</strong><br/>Product Design and Molding<br/>Product Sourcing<br/>Quality Control<br/>Logistics Management',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn More',
-  STARTER_ABOUT_BUTTON_URL: 'https://netthepoints.com/about',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.netthepoints.com/services&pricing',
   STARTER_ABOUT_TIPS_1: '100+',
   STARTER_ABOUT_TIPS_2: 'factories',
   STARTER_ABOUT_TIPS_3: 'cooperating',
