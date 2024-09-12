@@ -361,7 +361,7 @@ const CONFIG = {
   STARTER_404_TEXT: '',
   STARTER_404_BACK: 'Go Back',
 
-  STARTER_POST_REDIRECT_ENABLE: true, // 默認開啟重定向
+  STARTER_POST_REDIRECT_ENABLE: false, // 默認開啟重定向
   STARTER_POST_REDIRECT_URL: 'https://netthepoints.com', // 重定向域名
   STARTER_NEWSLETTER: process.env.NEXT_PUBLIC_THEME_STARTER_NEWSLETTER || false // 是否开启邮件订阅 请先配置mailchimp功能 https://docs.tangly1024.com/article/notion-next-mailchimp
 }
