@@ -327,15 +327,15 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: '',
+      TITLE: 'Policy',
       LINK_GROUP: [
         {
-          TITLE: '',
-          URL: ''
+          TITLE: 'Privacy Policy',
+          URL: 'https://www.netthepoints.com/privacy-policy'
         },
         {
-          TITLE: '',
-          URL: ''
+          TITLE: 'Cookie Policy',
+          URL: 'https://www.netthepoints.com/cookies'
         },
         {
           TITLE: '',
