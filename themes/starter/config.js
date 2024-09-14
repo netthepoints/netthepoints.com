@@ -59,7 +59,7 @@ const CONFIG = {
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
-  STARTER_ABOUT_TITLE: 'What We Offers? Why NTP?',
+  STARTER_ABOUT_TITLE: 'What We Offer? Why NTP?',
   STARTER_ABOUT_TEXT:
     '<strong>NTP is mainly undertaking the Work for You in:</strong><br/>Product Design and Molding<br/>Product Sourcing<br/>Quality Control<br/>Logistics Management<br/><br/><strong>The first factor of what makes NTP so unique that is we are your branch company in China. </strong><br/>At NTP, we pride on positioning ourselves as your dedicated branch company in China. This approach inherently empowers us to align our extensive expertise with the interests of your business across all aspects.<br/><br/><strong>The second one is that we are implementers focusing on quality.</strong><br/>Our quality inspection team members, who also have professional backgrounds as lawyers, auditors, or economists, are more capable of conducting comprehensive product quality checks and factory inspections. We ensure that all processes are tightly controlled and meet the highest standards, significantly reducing procurement risks from the very beginning.<br/><br/><strong>The final one is the scientific research and development background of the co-founders.</strong><br/>With our extensive background in research and development in the carbon fiber bicycle component sector and a strong sense of what a brand truly is, NTP offers insights that align with your branded business development needs and can provide services starting from the drawing board. Our services are tailored to enhance your brand and ensure product excellence.',
   STARTER_ABOUT_IMAGE_1: '/images/starter/about/about-image-01.jpg',
@@ -75,35 +75,35 @@ const CONFIG = {
   STARTER_PRICING_TITLE: '',
   STARTER_PRICING_TEXT_1: 'Simple Pricing',
   STARTER_PRICING_TEXT_2:
-    'Acting as your branch company in China and with expertise in bicycle compounent industry, Net The Points runs with 3 Product Sourcing functional Modes: Discover how your branch company can transform your supply chain to be simple, efficient, and all-in-control today!',
+    'Acting as your branch company in China and with expertise in the bicycle component industry, Net The Points runs with 3 Product Sourcing functional Modes: Discover how your branch company can transform your supply chain to be simple, efficient, and all-in-control today!',
 
-  STARTER_PRICING_1_TITLE: 'Essential Branch Company Mode',
+  STARTER_PRICING_1_TITLE: 'Essential',
   STARTER_PRICING_1_PRICE: '50+',
   STARTER_PRICING_1_PRICE_CURRENCY: '$',
   STARTER_PRICING_1_PRICE_PERIOD: 'order',
   STARTER_PRICING_1_HEADER: 'If you already have suppliers, we offer services below',
-  STARTER_PRICING_1_FEATURES: 'Comprehensive Product Receiving and Quality Assurance,Product Return Assistance,Free Warehouse Services,Competitive Shipping Options,Essential Branch Company Mode', // 英文逗号隔开
+  STARTER_PRICING_1_FEATURES: 'Comprehensive Product Receiving and Quality Assurance, Product Return Assistance, Free Warehouse Services, Competitive Shipping Options', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_1_BUTTON_URL:
     'https://netthepionts.com/pricing',
 
   STARTER_PRICING_2_TAG: 'Recommended',
-  STARTER_PRICING_2_TITLE: 'Curated Branch Company Mode',
+  STARTER_PRICING_2_TITLE: 'Curated',
   STARTER_PRICING_2_PRICE: '15+',
   STARTER_PRICING_2_PRICE_CURRENCY: '',
   STARTER_PRICING_2_PRICE_PERIOD: '%',
-  STARTER_PRICING_2_HEADER: 'If you don not have supplier, we offer services below',
-  STARTER_PRICING_2_FEATURES: 'Production Process Monitoring With Well Assigned Sourcing Colleague,Production Process Monitoring With Well Assigned Sourcing Colleague,Free Product Photography for E-Commerce,Quality Inspection Services,Free Warehouse Storage,Certificate Obtaining Assistance,Competive Shipping Options,Quality Assurance | Warranty', // 英文逗号隔开
+  STARTER_PRICING_2_HEADER: 'If you do not have a supplier, we offer the services below',
+  STARTER_PRICING_2_FEATURES: 'Production Process Monitoring With Well Assigned Sourcing Colleague, Production Process Monitoring With Well Assigned Sourcing Colleague, Free Product Photography for E-Commerce, Quality Inspection Services, Free Warehouse Storage, Certificate Obtaining Assistance,Competitive Shipping Options, Quality Assurance | Warranty', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: 'Lean More',
   STARTER_PRICING_2_BUTTON_URL:
     'https://netthepoints.com/pricing',
 
-  STARTER_PRICING_3_TITLE: 'Full Custom Branch Company Mode',
+  STARTER_PRICING_3_TITLE: 'Full Custom',
   STARTER_PRICING_3_PRICE: 'Free+',
   STARTER_PRICING_3_PRICE_CURRENCY: '',
   STARTER_PRICING_3_PRICE_PERIOD: '',
   STARTER_PRICING_3_HEADER: 'Deep services',
-  STARTER_PRICING_3_FEATURES: 'Factory Audit and Pre-Shipment Inspections,ODM | OEM related business boosting,More unlimited functions to be discussed: Contact Us for Customized Sourcing Services', // 英文逗号隔开
+  STARTER_PRICING_3_FEATURES: 'Factory Audit and Pre-Shipment Inspections, ODM | OEM related business boosting, More unlimited functions to be discussed: Contact Us for Customized Sourcing Services', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: 'Learn More',
   STARTER_PRICING_3_BUTTON_URL:
     'https://netthepoints.com/pricing',
@@ -185,11 +185,11 @@ const CONFIG = {
 
   STARTER_FAQ_2_QUESTION: 'How Does NTP (Net The Points) Qualify Factories for Reliability, Product Quality and On-time Delivery?',
   STARTER_FAQ_2_ANSWER:
-    'NTP deploys a comprehensive approach to verify factories or suppliers, ensuring they are reliable and produce high-quality products. The qualification process includes several key steps:<br/><br/>1. Reputation Checks: We assess reputations of supplers using the China National Enterprise Credit Information Publicity System and Qichacha, both trusted platforms for evaluating enterprise credibility. We also utilize other effective verification tools to gather valuable insights.<br/>2. Feedback Analysis: Our team reviews supplier feedback from third-party marketplaces and thematic online forums. This feedback helps us understand the performance of suppliers and the quality of their products.<br/>3. Order Monitoring: An assigned colleague from your branch company here closely monitors orders throughout various production stages. This oversight ensures that manufacturers deliver products on time and meet your specific requirements.<br/>4. Quality Inspections: Before production begins, we communicate all requirements with the factories or suppliers. After production, the team conducts thorough quality inspections to verify that the products meet our strict standards. Suppliers understand our commitment to maintaining high quality and timely delivery.<br/><br/>By following these rigorous processes, NTP offers a reliable sourcing service that connects you with your proprietary supplier networks comprising trustworthy factories or suppliers in China, ensuring you receive premium products tailored to your needs.',
+    'NTP deploys a comprehensive approach to verify factories or suppliers, ensuring they are reliable and produce high-quality products. The qualification process includes several key steps:<br/><br/>1. Reputation Checks: We assess the reputations of suppliers using the China National Enterprise Credit Information Publicity System and Qichacha, both trusted platforms for evaluating enterprise credibility. We also utilize other effective verification tools to gather valuable insights.<br/>2. Feedback Analysis: Our team reviews supplier feedback from third-party marketplaces and thematic online forums. This feedback helps us understand the performance of suppliers and the quality of their products.<br/>3. Order Monitoring: An assigned colleague from your branch company here closely monitors orders throughout various production stages. This oversight ensures that manufacturers deliver products on time and meet your specific requirements.<br/>4. Quality Inspections: Before production begins, we communicate all requirements with the factories or suppliers. After production, the team conducts thorough quality inspections to verify that the products meet our strict standards. Suppliers understand our commitment to maintaining high-quality and timely delivery.<br/><br/>By following these rigorous processes, NTP offers a reliable sourcing service that connects you with your proprietary supplier networks comprising trustworthy factories or suppliers in China, ensuring you receive premium products tailored to your needs.',
 
   STARTER_FAQ_3_QUESTION: 'Will NTP (Net The Points) Share Factory Contact Information?',
   STARTER_FAQ_3_ANSWER:
-    'Yes, NTP can provide factory contact information upon request. The cost for this service typically ranges around $500 USD and depends on the complexity of your product. We deliver this information before you place your initial order.<br/>As your branch company, NTP prides itself on transparency regarding our work scope, costs, and processes. We have invested significant time and effort into building a robust supplier chain tailored to your requirements. We appreciate your recognition of our hard work.<br/>The cost charged for factory information reflects the labor and resources involved in gathering, analyzing, and presenting a curated list of qualified manufacturers to offer you the best options for your business.',
+    'Yes, NTP can provide factory contact information upon request. The cost for this service typically ranges around 500 USD and depends on the complexity of your product. We deliver this information before you place your initial order.<br/>As your branch company, NTP prides itself on transparency regarding our work scope, costs, and processes. We have invested significant time and effort into building a robust supplier chain tailored to your requirements. We appreciate your recognition of our hard work.<br/>The cost charged for factory information reflects the labor and resources involved in gathering, analyzing, and presenting a curated list of qualified manufacturers to offer you the best options for your business.',
 
   STARTER_FAQ_4_QUESTION: 'Does NTP (Net The Points) Perform Quality Inspection or Hire A Third Party To Do The Inspection?',
   STARTER_FAQ_4_ANSWER:
@@ -327,15 +327,15 @@ const CONFIG = {
       ]
     },
     {
-      TITLE: 'Policy',
+      TITLE: '',
       LINK_GROUP: [
         {
-          TITLE: 'Privacy Policy',
-          URL: 'https://www.netthepoints.com/privacy-policy'
+          TITLE: '',
+          URL: ''
         },
         {
-          TITLE: 'Cookie Policy',
-          URL: 'https://www.netthepoints.com/cookies'
+          TITLE: '',
+          URL: ''
         },
         {
           TITLE: '',
