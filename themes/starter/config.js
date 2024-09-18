@@ -85,7 +85,7 @@ const CONFIG = {
   STARTER_PRICING_1_FEATURES: 'Comprehensive Product Receiving and Quality Assurance, Product Return Assistance, Free Warehouse Services, Competitive Shipping Options', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_1_BUTTON_URL:
-    'https://netthepionts.com/pricing',
+    'https://www.netthepoints.com/services&pricing',
 
   STARTER_PRICING_2_TAG: 'Recommended',
   STARTER_PRICING_2_TITLE: 'Curated',
@@ -94,9 +94,9 @@ const CONFIG = {
   STARTER_PRICING_2_PRICE_PERIOD: '%',
   STARTER_PRICING_2_HEADER: 'If you do not have a supplier, we offer the services below',
   STARTER_PRICING_2_FEATURES: 'Production Process Monitoring With Well Assigned Sourcing Colleague, Production Process Monitoring With Well Assigned Sourcing Colleague, Free Product Photography for E-Commerce, Quality Inspection Services, Free Warehouse Storage, Certificate Obtaining Assistance,Competitive Shipping Options, Quality Assurance | Warranty', // 英文逗号隔开
-  STARTER_PRICING_2_BUTTON_TEXT: 'Lean More',
+  STARTER_PRICING_2_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_2_BUTTON_URL:
-    'https://netthepoints.com/pricing',
+    'https://www.netthepoints.com/services&pricing',
 
   STARTER_PRICING_3_TITLE: 'Full Custom',
   STARTER_PRICING_3_PRICE: 'Free+',
@@ -104,9 +104,9 @@ const CONFIG = {
   STARTER_PRICING_3_PRICE_PERIOD: '',
   STARTER_PRICING_3_HEADER: 'Deep services',
   STARTER_PRICING_3_FEATURES: 'Factory Audit and Pre-Shipment Inspections, ODM | OEM related business boosting, More unlimited functions to be discussed: Contact Us for Customized Sourcing Services', // 英文逗号隔开
-  STARTER_PRICING_3_BUTTON_TEXT: 'Learn More',
+  STARTER_PRICING_3_BUTTON_TEXT: 'More Details',
   STARTER_PRICING_3_BUTTON_URL:
-    'https://netthepoints.com/pricing',
+    'https://www.netthepoints.com/services&pricing',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: false, // 测评区块开关
