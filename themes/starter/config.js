@@ -11,11 +11,11 @@ const CONFIG = {
   // 英雄区块导航
   STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
-  STARTER_HERO_TITLE_2: 'One-stop Sourcing Solution Provider from China', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'One-stop solution for high-quality carbon fiber bicycle components.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Get Purchasing Solution', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: 'Contact Us', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://www.netthepoints.com/need-purchasing-solutions', // 英雄区按钮
+    'https://www.netthepoints.com/contact', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
@@ -71,7 +71,7 @@ const CONFIG = {
   STARTER_ABOUT_TIPS_3: 'cooperating',
 
   // 首页价格区块
-  STARTER_PRICING_ENABLE: true, // 价格区块开关
+  STARTER_PRICING_ENABLE: false, // 价格区块开关
   STARTER_PRICING_TITLE: '',
   STARTER_PRICING_TEXT_1: 'Simple Pricing',
   STARTER_PRICING_TEXT_2:
