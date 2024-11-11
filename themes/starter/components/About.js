@@ -72,9 +72,9 @@ export const About = () => {
                     <div>
                       <span className="absolute left-0 top-0 -z-10">
                         <svg
-                          width="106"
+                          width="540"
                           height="144"
-                          viewBox="0 0 106 144"
+                          viewBox="0 0 540 144"
                           fill="none"
                           xmlns="http://www.w3.org/2000/svg"
                         >
@@ -108,9 +108,9 @@ export const About = () => {
                       </span>
                       <span className="absolute right-0 top-0 -z-10">
                         <svg
-                          width="130"
+                          width="540"
                           height="97"
-                          viewBox="0 0 130 97"
+                          viewBox="0 0 540 97"
                           fill="none"
                           xmlns="http://www.w3.org/2000/svg"
                         >
