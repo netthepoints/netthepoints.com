@@ -13,9 +13,9 @@ const CONFIG = {
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
   STARTER_HERO_TITLE_2: 'One-stop solution for high-quality carbon fiber bicycle components.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
-  STARTER_HERO_BUTTON_1_TEXT: 'Contact Us', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
   STARTER_HERO_BUTTON_1_URL:
-    'https://www.netthepoints.com/contact', // 英雄区按钮
+    '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
@@ -31,7 +31,7 @@ const CONFIG = {
 
    // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: 'Blogs',
+  STARTER_BLOG_TITLE: 'News',
   STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '',
   STARTER_BLOG_TEXT_2:
