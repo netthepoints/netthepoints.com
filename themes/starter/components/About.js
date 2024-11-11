@@ -41,7 +41,6 @@ export const About = () => {
 
             {/* 右侧的图片海报 */}
             <div className="w-full px-4 lg:w-1/2">
-              <div className="mb-12 max-w-[540px] lg:mb-0">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
                 <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
                   <div
