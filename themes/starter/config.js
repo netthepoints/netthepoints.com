@@ -29,6 +29,14 @@ const CONFIG = {
   STARTER_NAV_BUTTON_2_TEXT: 'Subscribe',
   STARTER_NAV_BUTTON_2_URL: 'https://netthepoints.com/subscribe',
 
+   // 博客文章区块
+  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
+  STARTER_BLOG_TITLE: 'Blogs',
+  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_TEXT_1: '',
+  STARTER_BLOG_TEXT_2:
+    '',
+  
   // 特性区块
   STARTER_FEATURE_ENABLE: false, // 特性区块开关
   STARTER_FEATURE_TITLE: '', // 特性
@@ -174,7 +182,7 @@ const CONFIG = {
   ],
 
   //   FAQ 常见问题模块
-  STARTER_FAQ_ENABLE: true, // 常见问题模块开关
+  STARTER_FAQ_ENABLE: false, // 常见问题模块开关
   STARTER_FAQ_TITLE: '',
   STARTER_FAQ_TEXT_1: 'FAQ',
   STARTER_FAQ_TEXT_2: 'Here are some questions that you may ask',
@@ -200,13 +208,7 @@ const CONFIG = {
     'When the branch company receives a task you assign, a dedicated specialist will be appointed to your case, ensuring that all your questions and inquiries are addressed efficiently. <br/><br/>Your specialist serves as a central point of contact, organizing both internal and external resources to streamline communication and enhance your experience. With our focused support, you can trust that your needs will be prioritized and handled with expertise.',
 
 
-  // 博客文章区块
-  STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: 'Blogs',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
-  STARTER_BLOG_TEXT_1: '',
-  STARTER_BLOG_TEXT_2:
-    '',
+
 
   // 联系模块
   STARTER_CONTACT_ENABLE: true, // 联系模块开关
