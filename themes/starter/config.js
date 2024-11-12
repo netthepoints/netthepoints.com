@@ -9,7 +9,7 @@ const CONFIG = {
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
- STARTER_HERO_ENABLE: true, // 开启英雄区
+  STARTER_HERO_ENABLE: true, // 开启英雄区
   STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
   STARTER_HERO_TITLE_2: 'Your bicycle components project manager.', // 英雄区文字
   // 英雄区两个按钮，如果TEXT留空则隐藏按钮
@@ -20,7 +20,9 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: 'public/images/starter/hero/NTP-STRACTURE.jpg', // 产品预览图 ，默认读取public目录下图片
+  // 英雄区配图，如需隐藏，改为空值即可 ''
+  STARTER_HERO_PREVIEW_IMAGE: 'images/starter/hero/ntp-stracture.webp', // 产品预览图 ，默认读取public目录下图片
+  STARTER_HERO_BANNER_IMAGE: '', // hero区下方的全宽图
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
