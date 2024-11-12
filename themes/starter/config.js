@@ -205,18 +205,7 @@ const CONFIG = {
     'When the branch company receives a task you assign, a dedicated specialist will be appointed to your case, ensuring that all your questions and inquiries are addressed efficiently. <br/><br/>Your specialist serves as a central point of contact, organizing both internal and external resources to streamline communication and enhance your experience. With our focused support, you can trust that your needs will be prioritized and handled with expertise.',
 
 
-
-
-  // 联系模块
-  STARTER_CONTACT_ENABLE: true, // 联系模块开关
-  STARTER_CONTACT_TEXT: 'Contact Us!',
-  STARTER_CONTACT_TITLE: 'New Project? Unsure Where to Start?',
-  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
-  STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
-  STARTER_CONTACT_EMAIL_TITLE: 'Email',
-  STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
-  
-  // 团队成员区块
+ // 团队成员区块
   STARTER_TEAM_ENABLE: true, // 团队成员区块开关
   STARTER_TEAM_TITLE: '',
   STARTER_TEAM_TEXT_1: 'Team Members',
@@ -247,6 +236,17 @@ const CONFIG = {
       STARTER_TEAM_ITEM_DESCRIPTION: 'Supplier Operation Health Inspector | Auditor'
     },
   ],
+
+  // 联系模块
+  STARTER_CONTACT_ENABLE: true, // 联系模块开关
+  STARTER_CONTACT_TEXT: 'Contact Us!',
+  STARTER_CONTACT_TITLE: 'New Project? Unsure Where to Start?',
+  STARTER_CONTACT_LOCATION_TITLE: 'Our Location',
+  STARTER_CONTACT_LOCATION_TEXT: 'Xiamen Fujian, China',
+  STARTER_CONTACT_EMAIL_TITLE: 'Email',
+  STARTER_CONTACT_EMAIL_TEXT: 'netthepoints@gmail.com',
+  
+ 
   // 嵌入外部表单
   STARTER_CONTACT_MSG_EXTERNAL_URL: 'https://noteforms.com/forms/purchase-application-form-zmsm4o', // 基于NoteForm创建，将留言数据存在Notion中
   //   自定义留言表单，以下几个配置暂时废弃
