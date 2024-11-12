@@ -41,11 +41,7 @@ export const About = () => {
 
             {/* 右侧的图片海报 */}
             <div className="w-full px-4 lg:w-1/2">
-              <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
-                  <div
-                    className="mb-4 sm:mb-8 sm:h-[540px] md:h-[346px] lg:mb-4 lg:h-[540px] xl:mb-8 xl:h-[310px]"
-                  >
+              <div className="mb-12 max-w-[540px] lg:mb-0">
                     <img
                       src={siteConfig('STARTER_ABOUT_IMAGE_2', null, CONFIG)}
                       alt="about image"
