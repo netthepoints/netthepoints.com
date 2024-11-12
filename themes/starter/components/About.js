@@ -19,7 +19,7 @@ export const About = () => {
 
             {/* 左侧的文字说明板块 */}
             <div className="w-full px-4 lg:w-full">
-              <div className="mb-12 max-w-[840px] lg:mb-0">
+              <div className="mb-12 max-w-[980px] lg:mb-0">
                 <h2
                   className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]"
                 >
