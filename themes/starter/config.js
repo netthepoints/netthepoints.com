@@ -9,16 +9,16 @@ const CONFIG = {
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
-  LANDING_HERO_TITLE_1: 'NotionNext',
-  LANDING_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
-  LANDING_HERO_BUTTON_1_TEXT: '开始体验',
-  LANDING_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
-  LANDING_HERO_BUTTON_2_TEXT: '了解更多',
-  LANDING_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
-  LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
+  STARTER_HERO_TITLE_1: 'NotionNext',
+  STARTER_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
+  STARTER_HERO_BUTTON_1_TEXT: '开始体验',
+  STARTER_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
+  STARTER_HERO_BUTTON_2_TEXT: '了解更多',
+  STARTER_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
+  STARTER_HERO_VIDEO_IMAGE: '/images/home.png',
   //   HERO_VIDEO_URL: '/videos/video.mp4',
-  LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
-  LANDING_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
+  STARTER_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
+  STARTER_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
