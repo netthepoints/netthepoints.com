@@ -73,9 +73,6 @@ const CONFIG = {
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg.jpg',
   STARTER_ABOUT_BUTTON_TEXT: 'Learn More',
   STARTER_ABOUT_BUTTON_URL: 'https://www.netthepoints.com/about-us',
-  STARTER_ABOUT_TIPS_1: '10+',
-  STARTER_ABOUT_TIPS_2: 'factories',
-  STARTER_ABOUT_TIPS_3: 'cooperating',
 
   // 首页价格区块
   STARTER_PRICING_ENABLE: false, // 价格区块开关
