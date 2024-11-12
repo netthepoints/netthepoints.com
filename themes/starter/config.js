@@ -20,7 +20,10 @@ const CONFIG = {
   STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
   STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
 
-  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
+  LANDING_HERO_VIDEO_IMAGE: '/images/home.png',
+  //   HERO_VIDEO_URL: '/videos/video.mp4',
+  LANDING_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
+  LANDING_HERO_VIDEO_TIPS: 'Watch the full video (33s)'
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
