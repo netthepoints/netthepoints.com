@@ -33,8 +33,8 @@ const CONFIG = {
 
    // 博客文章区块
   STARTER_BLOG_ENABLE: true, // 首页博文区块开关
-  STARTER_BLOG_TITLE: 'News',
-  STARTER_BLOG_COUNT: 3, // 首页博文区块默认展示前3篇文章
+  STARTER_BLOG_TITLE: 'Departments',
+  STARTER_BLOG_COUNT: 4, // 首页博文区块默认展示前3篇文章
   STARTER_BLOG_TEXT_1: '',
   STARTER_BLOG_TEXT_2:
     '',
