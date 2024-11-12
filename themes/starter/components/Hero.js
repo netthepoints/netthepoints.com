@@ -62,35 +62,18 @@ export const Hero = () => {
           </div>
 
           {/* 产品预览图片 */}
-          { siteConfig('STARTER_HERO_PREVIEW_IMAGE', null, CONFIG) && <div className="w-full px-4">
-            <div
-              className="wow fadeInUp relative z-10 mx-auto max-w-[845px]"
-              data-wow-delay=".25s"
-            >
+          <ModalVideo
+                        thumb={siteConfig('LANDING_HERO_VIDEO_IMAGE', null, CONFIG)}
+                        thumbWidth={768}
+                        thumbHeight={432}
+                        thumbAlt={siteConfig('HERO_HEADER_1', null, CONFIG)}
+                        video={siteConfig('HERO_VIDEO_URL', null, CONFIG)}
+                        videoWidth={1920}
+                        videoHeight={1080} />
 
-              <div className="mt-16">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img
-                  src={siteConfig('STARTER_HERO_PREVIEW_IMAGE', null, CONFIG)}
-                  alt="hero"
-                  className="mx-auto max-w-full rounded-t-xl rounded-tr-xl"
-                />
-              </div>
+                </div>
 
-              {/* 背景图 */}
-              <div className="absolute -left-9 bottom-0 z-[-1]">
-                <img src='/images/starter/bg-hero-circle.svg'/>
-              </div>
-              <div className="absolute -right-6 -top-6 z-[-1]">
-              <img src='/images/starter/bg-hero-circle.svg'/>
-              </div>
             </div>
-          </div>
-           }
-
-        </div>
-      </div>
-    </div>
-    {/* <!-- ====== Hero Section End --> */}
-    </>
+        </section>
+  )
 }
