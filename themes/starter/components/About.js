@@ -50,7 +50,8 @@ export const About = () => {
                       src={siteConfig('STARTER_ABOUT_IMAGE_2', null, CONFIG)}
                       alt="about image"
                       className="h-full w-full object-cover object-center"
-                    />
+                    style="width: 300px; height: 200px;" 
+                      />
                   </div>
 
                   <div
