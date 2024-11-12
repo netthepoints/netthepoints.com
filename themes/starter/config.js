@@ -293,7 +293,7 @@ const CONFIG = {
     }
   ],
 
-  STARTER_FOOTER_SLOGAN: 'True values come from creative connections.',
+  STARTER_FOOTER_SLOGAN: 'Your bicycle components project manager.',
 
   // 页脚三列菜单组
   STARTER_FOOTER_LINK_GROUP: [
