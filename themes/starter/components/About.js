@@ -41,11 +41,11 @@ export const About = () => {
 
             {/* 右侧的图片海报 */}
             <div className="w-full px-4 lg:w-1/2">
-              <div className="mb-12 max-w-[540px] lg:mb-0">
                     <img
                       src={siteConfig('STARTER_ABOUT_IMAGE_2', null, CONFIG)}
                       alt="about image"
                       className="h-full w-full object-cover object-center"
+                      style="width: 540px; height: 300px;"
                       />
                   </div>
                 </div>
