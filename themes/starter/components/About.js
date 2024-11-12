@@ -28,7 +28,6 @@ export const About = () => {
                 <p className="mb-10 text-base leading-relaxed text-body-color dark:text-dark-6"
                     dangerouslySetInnerHTML={
                     { __html: siteConfig('STARTER_ABOUT_TEXT', null, CONFIG) }
-                   className='h-full w-full object-cover object-center'
                 }></p>
 
                 <a
