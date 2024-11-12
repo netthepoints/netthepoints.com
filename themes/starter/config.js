@@ -9,16 +9,18 @@ const CONFIG = {
   // MENU ， 菜单部分不在此处配置，请在Notion数据库中添加MENU
 
   // 英雄区块导航
-  STARTER_HERO_TITLE_1: 'NotionNext',
-  STARTER_HERO_P_1: '快速搭建独立站、轻松放大品牌价值！',
-  STARTER_HERO_BUTTON_1_TEXT: '开始体验',
-  STARTER_HERO_BUTTON_1_LINK: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next',
-  STARTER_HERO_BUTTON_2_TEXT: '了解更多',
-  STARTER_HERO_BUTTON_2_LINK: 'https://docs.tangly1024.com/about',
-  STARTER_HERO_VIDEO_IMAGE: '/images/home.png',
-  //   HERO_VIDEO_URL: '/videos/video.mp4',
-  STARTER_HERO_VIDEO_IFRAME: '//player.bilibili.com/player.html?aid=913088616&bvid=BV1fM4y1L7Qi&cid=1187218697&page=1&&high_quality=1',
-  STARTER_HERO_VIDEO_TIPS: 'Watch the full video (2 min)',
+ STARTER_HERO_ENABLE: true, // 开启英雄区
+  STARTER_HERO_TITLE_1: 'Net The Points', // 英雄区文字
+  STARTER_HERO_TITLE_2: 'Your bicycle components project manager.', // 英雄区文字
+  // 英雄区两个按钮，如果TEXT留空则隐藏按钮
+  STARTER_HERO_BUTTON_1_TEXT: '', // 英雄区按钮
+  STARTER_HERO_BUTTON_1_URL:
+    '', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_TEXT: '', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_URL: '', // 英雄区按钮
+  STARTER_HERO_BUTTON_2_ICON: '', // 英雄区按钮2的图标，不需要则留空
+
+  STARTER_HERO_PREVIEW_IMAGE: '', // 产品预览图 ，默认读取public目录下图片
 
   // 顶部右侧导航暗流
   STARTER_NAV_BUTTON_1_TEXT: '',
