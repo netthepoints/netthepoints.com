@@ -86,6 +86,7 @@ export const Hero = () => {
               </div>
             </div>
           </div>
+          }
           {/* 横幅图片 */}
       {siteConfig('STARTER_HERO_BANNER_IMAGE', null, CONFIG) && (
         <div className='container'>
