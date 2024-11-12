@@ -40,20 +40,36 @@ export const About = () => {
             </div>
 
             {/* 右侧的图片海报 */}
-           <div className="w-full px-4 lg:w-1/2">
+            <div className="w-full px-4 lg:w-1/2">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
                 <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
                   <div
-                    className="mb-4 sm:mb-8 sm:h-[540px] md:h-[540px] lg:h-[540px] xl:h-[540px]"
+                    className="mb-4 sm:mb-8 sm:h-[540px] md:h-[346px] lg:mb-4 lg:h-[540px] xl:mb-8 xl:h-[310px]"
                   >
                     <img
                       src={siteConfig('STARTER_ABOUT_IMAGE_2', null, CONFIG)}
                       alt="about image"
                       className="h-full w-full object-cover object-center"
-                    />
+                      />
                   </div>
 
-                </div>
+                  <div
+                    className="relative z-10 mb-4 flex items-center justify-center overflow-hidden bg-primary px-6 py-12 sm:mb-8 sm:h-[160px] sm:p-5 lg:mb-4 xl:mb-8"
+                  >
+                    <div>
+                      <span className="block text-5xl font-extrabold text-white">
+                        {siteConfig('STARTER_ABOUT_TIPS_1', null, CONFIG)}
+                      </span>
+                      <span className="block text-base font-semibold text-white">
+                        {siteConfig('STARTER_ABOUT_TIPS_2', null, CONFIG)}
+                      </span>
+                      <span
+                        className="block text-base font-medium text-white text-opacity-70"
+                      >
+                        {siteConfig('STARTER_ABOUT_TIPS_3', null, CONFIG)}
+                      </span>
+                    </div>
+                    <div>
                       <span className="absolute left-0 top-0 -z-10">
                         <svg
                           width="540"
