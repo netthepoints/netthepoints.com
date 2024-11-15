@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="81.8" height="28" id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.24 138.37">
+<svg width="73" height="25" id="_图层_1" data-name="图层 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.24 138.37">
   <defs>
     <style>
       .cls-1 {
@@ -9,7 +9,7 @@
     </style>
   </defs>
   <path class="cls-1" d="m37.03,43.73l83.54,52.85h65.46L34.94,1.79c-1.86-1.17-3.95-1.79-6.04-1.79h-15.69C5.92,0,0,7.24,0,16.13v80.45h37.03v-52.85Z"/>
-  <rect class="cls-1" y="105.24" width="37.03" height="11.51"/>
+  <rect class="cls-1" y="105.24" width="29.2" height="10"/>
   <path class="cls-1" d="m198.43,136.89c1.87.97,3.97,1.48,6.08,1.48h15.68c7.2,0,13.05-5.8,13.18-12.97h-57.13l22.2,11.49Z"/>
   <path class="cls-1" d="m13.2,138.37h10.63c7.2,0,13.05-5.8,13.18-12.97H.02c.12,7.17,5.98,12.97,13.18,12.97Z"/>
   <polygon class="cls-1" points="159.52 116.74 233.4 116.74 233.4 105.24 137.29 105.24 159.52 116.74"/>
